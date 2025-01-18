@@ -1,0 +1,6 @@
+ciao odno,
+questo è un testo
+molto lungo con
+tanti caratteri di cui si
+vuole sapere qual
+è il più frequente.
