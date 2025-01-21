@@ -74,6 +74,10 @@ int main(){
     pushBack(list, 3);
     pushBack(list, 1);
     pushBack(list, 10);
+    pushBack(list, 1);
+    pushBack(list, 10);
+    pushBack(list, 56);
+    pushBack(list, 122);
 
     printf("Prima della rotazione: ");
     printList(list);
