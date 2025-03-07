@@ -20,6 +20,8 @@ Ci sono ancora molte soluzioni mancanti: sentitevi pure liberi di contribuire.
 
 Per qualsiasi segnalazione di errori contattatemi.
 
+Altre soluzioni delle prove [possono essere trovate qui](https://github.com/Invy55/tde-082746) (Thanks to [@Invy55](https://github.com/Invy55))
+
 ## Contatti
 
 Riccardo Salemme - [@riccardosalemme](http://linkedin.com/in/riccardosalemme/) - me@riccardo.top
